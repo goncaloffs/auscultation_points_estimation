@@ -98,7 +98,7 @@ Following the program's flow, the user has the possibility, as explained previou
 
 | Anterior lung auscultation | Posterior lung auscultation | Cardiac auscultation |
 | ------------- | ------------- | ------------- |
-| <img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/ca7af010-28e0-40db-8e23-921cb3d33f7e" /> | <img width="553" height="470" alt="image" src="https://github.com/user-attachments/assets/3935ea12-3236-40f1-afc2-b92cc8151101" /> | <img width="631" height="471" alt="image" src="https://github.com/user-attachments/assets/626b8084-9dbf-4aba-92b0-030ef529d194" /> |
+| <img width="559" height="413" alt="image" src="https://github.com/user-attachments/assets/3fcb1c38-9ba2-45da-9acf-32241042f997" /> | <img width="553" height="470" alt="image" src="https://github.com/user-attachments/assets/3935ea12-3236-40f1-afc2-b92cc8151101" /> | <img width="631" height="471" alt="image" src="https://github.com/user-attachments/assets/626b8084-9dbf-4aba-92b0-030ef529d194" /> |
 
 ### Limitations
 
