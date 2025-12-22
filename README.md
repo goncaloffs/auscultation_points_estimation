@@ -38,12 +38,9 @@ Next, we superimposed the MediaPipe reference points, drew lines between points 
 Proportions were calculated relative to the location of the horizontal lines and the points they contain, taking as reference the connections between points 11 and 12 and the connections between the shoulders and hips respectively, since these are part of the MediaPipe Pose.
 - Taking as an example the second line and points L2 and R2 of Figure 5, considering that the limits of the line are 1.2 cm from the shoulders and 2.2 cm from the points:
 
-| Name     |
+|      |
 | ---      |
-| Backtick |
-| Pipe     |
-
- Prop.y2 = 1.2 / dy 
- Prop.x2 = 2.2 / dx2 
+| Prop.y2 = 1.2 / dy |
+| Prop.x2 = 2.2 / dx2 |
 
 - Considering in this body position the relationship dy1 = dy2 = 1.8 × dx1 obtained after testing the MediaPipe Pose model, with dx1 = 6.2 cm and dx2 = 5.7 cm:
