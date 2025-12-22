@@ -4,6 +4,7 @@ Auscultation, a crucial practice in medicine, plays a fundamental role in detect
 
 ![alt text](https://github.com/user-attachments/assets/a97feb3b-ab05-48c4-ab31-8b9e6575e393)
 
+<img width="660" height="267" alt="image" src="https://github.com/user-attachments/assets/fb46a166-12b2-4656-9cd8-f0cfa4fad422" />
 
 
 However, the lack of organic teaching of auscultation and its inadequate practice have had a negative impact on the clinical competence of physicians in training, also reflecting a diminished academic interest. 
