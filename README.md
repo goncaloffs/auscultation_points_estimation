@@ -104,3 +104,6 @@ Following the program's flow, the user has the possibility, as explained previou
 
 After some tests, some limitations were noted including the distortion that occurs due to significant changes in the distance between the individual and the camera, and it does not take into account body contours when the individual is in an incorrect position.
 
+## Your own approach
+
+This repository includes the python code needed in one singular file. The initial idea was to imagine how a robotic arm could do automatic auscultation based on computer vision, and for that means there's still way to much to improve in this code. Maybe you will get some ideas in how to continue this and build your own project.
