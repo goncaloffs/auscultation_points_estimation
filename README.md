@@ -2,7 +2,6 @@
 
 Auscultation, a crucial practice in medicine, plays a fundamental role in detecting cardiac and pulmonary signals, contributing to accurate diagnoses. 
 
-![alt text](https://github.com/user-attachments/assets/a97feb3b-ab05-48c4-ab31-8b9e6575e393)
 
 <img width="660" height="267" alt="image" src="https://github.com/user-attachments/assets/fb46a166-12b2-4656-9cd8-f0cfa4fad422" />
 
