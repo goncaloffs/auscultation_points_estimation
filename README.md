@@ -29,7 +29,7 @@ The auscultation points were identified in relation to the reference points of t
 
 | Anterior lung auscultation on an AP radiograph  | Posterior lung auscultation on a PA radiograph | Cardiac auscultation on an AP radiograph |
 | ------------- | ------------- | ------------- |
-| <img width="361" height="399" alt="image" src="https://github.com/user-attachments/assets/ae5b65df-9971-414e-8390-4f86fa7b4ce6" /> | <img width="405" height="371" alt="image" src="https://github.com/user-attachments/assets/8e5cf7fa-be0e-4aff-8b56-252412201e1a" /> | <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/4c0a514b-e193-4e59-9f28-4b1e0b5fa195" /> |
+| <img width="885" height="658" alt="image" src="https://github.com/user-attachments/assets/54c2a2b8-020e-47b7-86d7-34ecebcec719" /> | <img width="405" height="371" alt="image" src="https://github.com/user-attachments/assets/8e5cf7fa-be0e-4aff-8b56-252412201e1a" /> | <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/4c0a514b-e193-4e59-9f28-4b1e0b5fa195" /> |
 
 Next, we superimposed the MediaPipe reference points, drew lines between points 11 and 23 and between points 12 and 24 (shoulder and hip on each side), and drew horizontal lines to contain the auscultation points at the same height as follows:
 
