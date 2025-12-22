@@ -23,6 +23,12 @@ It has several functions, including MediaPipe Pose, which allows obtaining estim
 
 <img width="1090" height="550" alt="image" src="https://github.com/user-attachments/assets/ec0e80e6-af27-43d7-a501-526a8b813539" />
 
+## Mapping of Auscultation Points
 
+The auscultation points were identified in relation to the reference points of the shoulders (11 and 12) and hips (23 and 24). Three different modes were developed: anterior and posterior pulmonary auscultation, and cardiac auscultation. The mapping of the auscultation points was performed based on posteroanterior (PA) or anteroposterior (AP) chest radiographs, as follows:
+
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
 
 
