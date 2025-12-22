@@ -30,3 +30,15 @@ The auscultation points were identified in relation to the reference points of t
 | Anterior lung auscultation on an AP radiograph  | Posterior lung auscultation on a PA radiograph | Cardiac auscultation on an AP radiograph. |
 | ------------- | ------------- | ------------- |
 | <img width="361" height="399" alt="image" src="https://github.com/user-attachments/assets/ae5b65df-9971-414e-8390-4f86fa7b4ce6" /> | <img width="405" height="371" alt="image" src="https://github.com/user-attachments/assets/8e5cf7fa-be0e-4aff-8b56-252412201e1a" /> | <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/4c0a514b-e193-4e59-9f28-4b1e0b5fa195" /> |
+
+Next, we superimposed the MediaPipe reference points, drew lines between points 11 and 23 and between points 12 and 24 (shoulder and hip on each side), and drew horizontal lines to contain the auscultation points at the same height as follows:
+
+<img width="514" height="473" alt="image" src="https://github.com/user-attachments/assets/d74d3d5c-bcb4-4792-b0a2-ddf43d2447d0" />
+
+Proportions were calculated relative to the location of the horizontal lines and the points they contain, taking as reference the connections between points 11 and 12 and the connections between the shoulders and hips respectively, since these are part of the MediaPipe Pose.
+- Taking as an example the second line and points L2 and R2 of Figure 5, considering that the limits of the line are 1.2 cm from the shoulders and 2.2 cm from the points:
+
+| Prop.y2 = 1.2 / dy |
+| Prop.x2 = 2.2 / dx2 |
+
+- Considering in this body position the relationship dy1 = dy2 = 1.8 × dx1 obtained after testing the MediaPipe Pose model, with dx1 = 6.2 cm and dx2 = 5.7 cm:
