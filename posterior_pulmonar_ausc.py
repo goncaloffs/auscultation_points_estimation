@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 24 22:23:56 2023
 
-@author: PC
-"""
-
-#CÓDIGO PARA AUSCULTAÇÃO PULMONAR POSTERIOR
+#CODE FOR POSTERIOR PULMONAR AUSCULTATION
 
 import cv2
 import mediapipe as mp
@@ -196,3 +191,4 @@ with mp_pose.Pose(
 # Release the webcam
 cap.release()
 cv2.destroyAllWindows()
+
