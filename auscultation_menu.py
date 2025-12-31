@@ -46,15 +46,15 @@ start_frame.pack(expand=True, fill='both')
 
 main_menu_frame = ttk.Frame(root, padding="20")
 
-image_path1 = r'C:\path\to\your\Images\auscultacao_coronaria.png'
+image_path1 = r'C:\path\to\your\Images\cardiac_ausc.png'
 image1 = Image.open(image_path1)
 tk_image1 = ImageTk.PhotoImage(image1)
 
-image_path2 = r'C:\path\to\your\Images\auscultacao_anterior.png'
+image_path2 = r'C:\path\to\your\Images\anterior_ausc.png'
 image2 = Image.open(image_path2)
 tk_image2 = ImageTk.PhotoImage(image2)
 
-image_path3 = r'C:\path\to\your\Images\auscultacao_posterior.png'
+image_path3 = r'C:\path\to\your\Images\posterior_ausc.png'
 image3 = Image.open(image_path3)
 tk_image3 = ImageTk.PhotoImage(image3)
 
@@ -78,17 +78,17 @@ image_label3.grid(row=2, column=2, pady=10)
 instruction_label = tk.Label(main_menu_frame, text="Choose between the three auscultation modes:", font=('Helvetica', 14), pady=10)
 instruction_label.grid(row=0, column=0, columnspan=3)
 
-info_icon_path1 = r'C:\path\to\your\Images\info_icon-removebg-preview.png'
+info_icon_path1 = r'C:\path\to\your\Images\info_icon.png'
 info_icon1 = Image.open(info_icon_path1)
 info_icon1 = info_icon1.resize((40, 40), Image.LANCZOS)
 tk_info_icon1 = ImageTk.PhotoImage(info_icon1)
 
-info_icon_path2 = r'C:\path\to\your\Images\info_icon-removebg-preview.png'
+info_icon_path2 = r'C:\path\to\your\Images\info_icon.png'
 info_icon2 = Image.open(info_icon_path2)
 info_icon2 = info_icon2.resize((40, 40), Image.LANCZOS)
 tk_info_icon2 = ImageTk.PhotoImage(info_icon2)
 
-info_icon_path3 = r'C:\path\to\your\Images\info_icon-removebg-preview.png'
+info_icon_path3 = r'C:\path\to\your\Images\info_icon.png'
 info_icon3 = Image.open(info_icon_path3)
 info_icon3 = info_icon3.resize((40, 40), Image.LANCZOS)
 tk_info_icon3 = ImageTk.PhotoImage(info_icon3)
@@ -121,4 +121,5 @@ root.configure(background='#f0f0f0')
 root.attributes('-alpha', True)
 
 root.mainloop()
+
 
